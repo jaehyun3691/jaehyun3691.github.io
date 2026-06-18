@@ -49,4 +49,4 @@ GitHub: https://github.com/jaehyun3691
 
 LinkedIn: www.linkedin.com/in/jaehyun-park-02296a2b6
 
-Email: [your-email@skku.edu](mailto:your-email@skku.edu)
+Email: jaehyun3691@gmail.com
