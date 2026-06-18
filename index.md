@@ -32,6 +32,6 @@ My research interests include:
 
 GitHub: https://github.com/jaehyun3691
 
-LinkedIn: linkedin.com/in/jaehyun-park-02296a2b6
+LinkedIn: www.linkedin.com/in/jaehyun-park-02296a2b6
 
 Email: jaehyun3691@gmail.com
