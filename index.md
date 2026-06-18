@@ -1,5 +1,3 @@
-# Jaehyun Park
-
 **Incoming M.S. Student**  
 Department of Immersive Media Engineering  
 Sungkyunkwan University
