@@ -73,7 +73,7 @@ permalink: /
       </section>
       <section class="section" id="education" aria-labelledby="education-title">
         <div class="section-label"><span>03</span><h2 id="education-title">Education</h2></div>
-        <div class="education"><div class="school"><div><h3>Sungkyunkwan University</h3><p>M.S. Student · Immersive Media Engineering</p></div><span class="year">2026 — Present</span></div><div class="school"><div><h3>University of Wisconsin–Madison</h3><p>B.S. · Information Science</p></div><span class="year">(-2024)</span></div></div>
+        <div class="education"><div class="school"><div><h3>Sungkyunkwan University</h3><p>M.S. Student · Immersive Media Engineering</p></div><span class="year">2026 — Present</span></div><div class="school"><div><h3>University of Wisconsin–Madison</h3><p>B.S. · Information Science</p></div><span class="year">— 2024</span></div></div>
       </section>
       <section class="contact" id="contact" aria-labelledby="contact-title"><div><h2 id="contact-title">Let’s connect.</h2><p>For conversations about people, technology, and ideas.</p></div><div class="contact-links"><a href="mailto:jaehyun3691@gmail.com" aria-label="Email Jaehyun at jaehyun3691@gmail.com">Email <span aria-hidden="true">↗</span></a><a href="https://github.com/jaehyun3691">GitHub <span aria-hidden="true">↗</span></a><a href="https://www.linkedin.com/in/jaehyun-park-02296a2b6/">LinkedIn <span aria-hidden="true">↗</span></a></div></section>
     </main>
