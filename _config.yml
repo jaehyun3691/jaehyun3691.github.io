@@ -1,3 +1,6 @@
 title: Jaehyun Park
-description: Exploring Human Experience through AI, XR, and Data
+description: Exploring Human–AI Interaction, Information Behavior, and Decision-Making
 theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: Kramdown
